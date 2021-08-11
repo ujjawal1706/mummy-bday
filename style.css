@@ -7,7 +7,7 @@
         padding: 0;
     }
     body {
-        font-family: 'Amatic SC';
+        font-family: 'Amatic SC',cursive;
         height: 100vh;
     }
     .slider-container {
@@ -34,7 +34,7 @@
         color: #fff;
     }
     .left-slide h3 {
-        font-family: 'Merienda';
+        font-family: 'Merienda',cursive;
         font-size: 20px;
         margin-bottom: 10px;
         margin-top: -30px;
@@ -100,7 +100,7 @@
         padding: 0;
     }
     body {
-        font-family: 'Amatic SC';
+        font-family: 'Amatic SC',cursive;
         height: 100vh;
     }
     .slider-container {
@@ -127,7 +127,7 @@
         color: #fff;
     }
     .left-slide h3 {
-        font-family: 'Merienda';
+        font-family: 'Merienda',cursive;
         font-size: 20px;
         margin-bottom: 10px;
         margin-top: -30px;
