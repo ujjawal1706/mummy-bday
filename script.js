@@ -60,6 +60,6 @@ function createBalloons(num) {
     }
 }
 
-window.onload = function() {
+window.onload = function(){
     createBalloons(100);
 }
